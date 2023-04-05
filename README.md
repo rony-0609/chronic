@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
