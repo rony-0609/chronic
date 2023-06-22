@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Fix IS_PYTHON_3_12 bug (#9258)
