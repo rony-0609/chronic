@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
