@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add integrations/gradio Docs page (#7935)
