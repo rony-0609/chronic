@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
