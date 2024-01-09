@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
