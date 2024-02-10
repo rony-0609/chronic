@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Model typehints Docker fix (#8306)
