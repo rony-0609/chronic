@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Compare plt.get_backend() in lowercase (#8409)
