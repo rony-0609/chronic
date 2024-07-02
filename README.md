@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Updating a typo on paddlepaddle.md (#9108)
