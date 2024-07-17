@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
