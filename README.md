@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
