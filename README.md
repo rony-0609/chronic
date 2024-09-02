@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
