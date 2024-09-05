@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
