@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
