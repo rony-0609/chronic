@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Faster batch same_shapes (#8851)
